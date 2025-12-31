@@ -1,7 +1,7 @@
 site_name: Documentation Field Guide
 site_description: Decision frameworks, failure modes, and delivery patterns for technical documentation at scale.
-site_url: https://<YOUR_GITHUB_USERNAME>.github.io/documentation-field-guide/
-repo_url: https://github.com/<YOUR_GITHUB_USERNAME>/documentation-field-guide
+site_url: https://luisjguedes.github.io/documentation-field-guide/
+repo_url: https://github.com/luisjguedes/documentation-field-guide
 repo_name: documentation-field-guide
 edit_uri: edit/main/docs/
 
