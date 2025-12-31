@@ -1,0 +1,23 @@
+name: Suggest an improvement
+description: Propose an improvement, addition, or correction
+title: "[Suggestion] "
+labels: ["suggestion"]
+body:
+  - type: textarea
+    attributes:
+      label: What should change?
+      description: Be specific. Link to the page if applicable.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Why?
+      description: Explain the user need or failure mode this fixes.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Sources / evidence
+      description: Add links or examples if relevant.
+    validations:
+      required: false
